@@ -6,7 +6,16 @@ O objetivo é transformar dados brutos em informações claras, visuais e úteis
 Desafio do Bootcamp Santander & DIO
 
 ---
+## 🎮 Xbox Game Pass Dashboard
+**Xbox Game Pass Dashboard** – Dashboard interativo em Excel para analisar valores em reais das assinaturas do **Xbox Game Pass**, **EA Play** e **Minecraft Season Pass**.  
+Inclui:
+- Gráficos detalhados  
+- Distribuição por tipo de assinatura  
+- Filtros por **Anual**, **Mensal** e **Trimestral**  
+- Visualização clara dos valores e categorias  
 
+Permite explorar os dados de forma **rápida, dinâmica e prática**, destacando tendências e diferenças entre os tipos de assinatura.
+---
 ## 🧠 Habilidades Utilizadas  
 
 📌 Manipulação e limpeza de dados  
