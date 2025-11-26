@@ -26,6 +26,6 @@ Desafio do Bootcamp Santander & DIO
 - Dashboard dinâmico em Excel  
 
 ---
-##🚀 Objetivo
+## 🚀 Objetivo
 
 O projeto mostra, na prática, como transformar informações dispersas em insights que agreguem valor, criando uma visualização moderna e funcional dentro do Excel.
